@@ -1,2 +1,0 @@
-#!/bin/sh
-networksetup -getmacaddress Wi-fi | awk '{print $3}'

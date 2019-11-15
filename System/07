@@ -1,7 +1,0 @@
-#!/bin/sh
-cat /var/run/sshd.pid
-
-Chaque programme lancé sur un système Linux est identifié 
-par un numéro qui lui est propre : le PID process ID / IDentifiant du processus
-cmd : ps
-

@@ -1,2 +1,0 @@
-#!/bin/sh
-systemctl list-unit-files | awk '/enabled/'

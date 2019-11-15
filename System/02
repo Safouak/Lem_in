@@ -1,2 +1,0 @@
-#!/bin/sh
-hostnamectl set-hostname myvirtualbox
