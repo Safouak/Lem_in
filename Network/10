@@ -1,0 +1,2 @@
+#!/bin/sh
+traceroute -q1 -w1 slash16.org

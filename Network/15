@@ -1,0 +1,5 @@
+
+Afin de faire pointer intra.42.fr sur l'adresse 46.19.122.85 une nouvelle ligne
+doit etre ajoute dans `hosts` en root.
+46.19.122.85	intra.42.fr
+

@@ -1,0 +1,2 @@
+#!/bin/sh
+du -lhd1 /var

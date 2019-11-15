@@ -1,0 +1,2 @@
+#!/bin/sh
+netstat -rn | awk '/default/{print $2}' | head -1
